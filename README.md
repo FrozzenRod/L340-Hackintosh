@@ -22,4 +22,4 @@ L340 Gaming hackintosh
 
 # Trackpad settings
 
-! (/user/thomas/Documents/Github trackpad.png)
+![texte alternatif de l'image](../../user/thomas/Documents/trackpad.png)
