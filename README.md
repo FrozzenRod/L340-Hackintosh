@@ -12,3 +12,10 @@ L340 Gaming hackintosh
 | Sound Card          | Realtek ALC257                               |
 | Wireless Card       | Intel Wireless-AC 9462                       |
 | Trackpad            | ELAN TPD0                                    |
+| OSX version         | Big Sur 11.6                                 |
+
+
+# Not Working
+
+GTX 1050 disabled in config.plist
+HDMI Port (it was connected with GTX 1050) 
