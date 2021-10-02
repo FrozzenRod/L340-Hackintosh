@@ -17,5 +17,9 @@ L340 Gaming hackintosh
 
 # Not Working
 
-GTX 1050 disabled in config.plist
-HDMI Port (it was connected with GTX 1050) 
+- GTX 1050 disabled in config.plist
+- HDMI Port (it was connected with GTX 1050) 
+
+# Trackpad settings
+
+! (/user/thomas/Documents/Github trackpad.png)
